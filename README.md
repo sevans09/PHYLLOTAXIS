@@ -8,11 +8,12 @@ Harmonized the “leaves” using the golden angle:
 
 This equation defines the way the leaves spiral, and can also be found in pine cones, shells, hurricanes, etc.
 
-#### Sunflower
+
+### Sunflower
 ![sun](sunflower.png)
 
-#### Modified Sunflower
+### Modified Sunflower
 ![mod-sun](sunflower-mod.png)
 
-#### Dandelion
+### Dandelion
 ![dandelion](dandelion.png)
